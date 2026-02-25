@@ -1,1 +1,1 @@
-# django-takrorlash-0101
+# sherik-test-repo
